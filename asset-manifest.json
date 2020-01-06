@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MERN-shopping-list/static/css/main.c0e9d907.chunk.css",
+    "main.js": "/MERN-shopping-list/static/js/main.eeed0a49.chunk.js",
+    "main.js.map": "/MERN-shopping-list/static/js/main.eeed0a49.chunk.js.map",
+    "runtime-main.js": "/MERN-shopping-list/static/js/runtime-main.434dbbbb.js",
+    "runtime-main.js.map": "/MERN-shopping-list/static/js/runtime-main.434dbbbb.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/MERN-shopping-list/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.955cc50d.chunk.js": "/MERN-shopping-list/static/js/2.955cc50d.chunk.js",
+    "static/js/2.955cc50d.chunk.js.map": "/MERN-shopping-list/static/js/2.955cc50d.chunk.js.map",
+    "index.html": "/MERN-shopping-list/index.html",
+    "precache-manifest.8525d5e676f69383a52dc0d5e6121e2a.js": "/MERN-shopping-list/precache-manifest.8525d5e676f69383a52dc0d5e6121e2a.js",
+    "service-worker.js": "/MERN-shopping-list/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/MERN-shopping-list/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.c0e9d907.chunk.css.map": "/MERN-shopping-list/static/css/main.c0e9d907.chunk.css.map",
+    "static/js/2.955cc50d.chunk.js.LICENSE": "/MERN-shopping-list/static/js/2.955cc50d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.434dbbbb.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.955cc50d.chunk.js",
+    "static/css/main.c0e9d907.chunk.css",
+    "static/js/main.eeed0a49.chunk.js"
+  ]
+}
